@@ -25,7 +25,7 @@ namespace JunaidAlam.Models
 
 
         [DisplayName("Product Image")]
-        [Required(ErrorMessage = "Product Price Is Required")]
+        [Required(ErrorMessage = "Product Image Is Required")]
         public string P_Img { get; set; }
 
 
